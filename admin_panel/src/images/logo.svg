@@ -1,0 +1,23 @@
+<svg id="campusXchangeLogo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 100">
+  <title>campusXchange Logo</title>
+
+  <!-- "campus" -->
+  <text x="10" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">c</text>
+  <text x="35" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">a</text>
+  <text x="60" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">m</text>
+  <text x="90" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">p</text>
+  <text x="115" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">u</text>
+  <text x="140" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">s</text>
+  
+  <!-- "X" -->
+  <text x="170" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149" font-weight="bold">X</text>
+
+  <!-- "change" -->
+  <text x="200" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">c</text>
+  <text x="225" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">h</text>
+  <text x="250" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">a</text>
+  <text x="275" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">n</text>
+  <text x="300" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">g</text>
+  <text x="325" y="65" font-family="Arial, sans-serif" font-size="30" fill="#394149">e</text>
+</svg>
+
